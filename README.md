@@ -1,1 +1,1 @@
-# Colab---Segmentacja---Python
+# Colab---Segmentation---Python
